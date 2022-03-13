@@ -7,8 +7,9 @@ Download the latest [release](https://github.com/HMLd/pasteascsv/releases) and u
 ## How to use
 Execute a query in the SSMS query window, copy results, right click and select "Paste as CSV" from context menu.
 
-[Screenshot 1](Docs/Screenshot1.jpeg)
+[Screenshot 1](Docs/Screenshot1.jpg)
 
 Results will be pasted as single-quoted, comma-separated values
 
-[Screenshot 2](Docs/Screenshot2.jpeg)
+[Screenshot 2](Docs/Screenshot2.jpg)
+
